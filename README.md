@@ -1,7 +1,7 @@
 
 # Requirement Analysis, Specification and Design Document for electrical vehicle charging station software
 
-This repo contains the Requirement Analysis and Specification Document, and Design Documents for the software system of electrical vehicle charging service. These documents were developed as a project during the "Software Engineering" 2022/23 A. Y. course at PoliMi. 
+This repo contains the **Requirement Analysis and Specification Document**, and **Design Documents** for the software system of electrical vehicle charging service. These documents were developed as a project during the "Software Engineering" 2022/23 A. Y. course at PoliMi. 
 
 The objective of this project is to apply software engineering practices to address software engineering issues in a rigorous way and develop RASD and DD for eMall system described in the following section. The project includes two documents:
 
